@@ -1,0 +1,81 @@
+/* body style  */
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+
+/* header style  */
+header{
+    background-color: #264653;;
+}
+
+
+
+/* custom color $ custom backbround color style start  */
+.custom-text{
+    
+    color: #FFFFFF;
+
+}
+
+ .bg-color{
+    background-color: #E76F51;
+}
+.custom-filter{
+    filter: grayscale(100%);
+}
+.custom-font{
+    font-size: .8rem;
+    color:#E76F51;   
+}
+
+
+.custom-color{
+    color: #E76F51;
+}
+/* custom color $ custom backbround color style end  */
+
+
+
+
+/* font aswome icon style start */
+.fas.fa-star{
+    color: #E76F51;
+}
+.far.fa-star{
+    color: #E76F51;
+}
+
+.fab.fa-facebook {
+    font-size: 2rem;
+    color: rgb(17, 17, 177);
+   
+}
+.fab.fa-youtube{
+    font-size: 2rem;
+    color: red;
+    margin: 0 1rem;
+}
+.fab.fa-linkedin{
+    font-size: 2rem;
+    color: cadetblue;
+}
+/* font aswome icon style end*/
+
+
+
+
+
+/* accordition part custom style start  */
+.accordion-item ,.accordion-header{
+    background-color: transparent !important;
+    margin-bottom: 10px;
+    border: none !important;
+    padding: 0 !important;
+
+}
+.accordion-item{
+    box-shadow: 0 2px 20px #264653;
+}
+
+/* accordition part custom style end */
